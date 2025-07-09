@@ -43,7 +43,7 @@ It combines:
 
 ## 4. 📈 Interactive Dashboard (Power BI)
 
-**File**: `dashboard/online_retail_dashboard.pbix`
+**File**: `Online_Retail_Performance_Dashboard.pbix`
 
 ### 🗂️ General (Overview)
 
@@ -101,6 +101,7 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 ### 💾 General
 
 * Revenue peaks in Nov/Dec ✔ weekday shopping trend (Wed & 9 AM–3 PM)
+  ![ERD](screenshots/general-overview.png)
 * UK leads revenue; "Loyal Customers" segment orders most frequently
 
 ### 👤 Customer & Product Details
