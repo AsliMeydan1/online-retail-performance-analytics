@@ -38,7 +38,7 @@ It combines:
 * **Objective 2**: Forecast revenue based on historical behavior
 * **Objective 3**: Build an interactive dashboard for business teams
 
-![ERD](visuals/ERD.png)
+![ERD](screenshots/ERD.png)
 ---
 
 ## 4. 📈 Interactive Dashboard (Power BI)
