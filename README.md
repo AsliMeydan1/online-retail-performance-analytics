@@ -2,6 +2,24 @@
 **Tools**: SQL, Python, Power BI
 
 ---
+📚 Table of Contents
+
+📁 Folder Structure
+
+🧠 Project Overview
+
+📊 Dataset and Objectives
+
+📈 Interactive Dashboard (Power BI)
+
+🌟 Business Questions Answered
+
+🔍 Key Insights
+
+✅ Recommendations
+
+⚠️ Limitations & Assumptions
+---
 
 ## 1. 📁 Folder Structure
 
