@@ -8,13 +8,14 @@
 ```
 online-retail-performance-analytics/
 
-├── data/              # Raw data
-├── notebooks/         # Jupyter Notebooks
-├── sql/               # SQL script
-├── outputs/           # Cleaned data and outputs
-├── dashboard/         # Power BI .pbix file
-├── visuals/           # Dashboard visuals
-└── README.md          # Project documentation
+├── data/                                        # Raw data
+├── notebooks/                                   # Jupyter Notebooks
+├── outputs/                                     # Cleaned data and outputs
+├── screenshots/                                 # Dashboard visuals
+├── sql/                                         # SQL script
+├── Online Retail Performance Dashboard.pbix/    # Power BI .pbix file
+├── Online Retail Performance Dashboard.pdf/     # Power BI .pdf file
+└── README.md                                    # Project documentation
 ```
 
 ---
@@ -37,6 +38,7 @@ It combines:
 * **Objective 2**: Forecast revenue based on historical behavior
 * **Objective 3**: Build an interactive dashboard for business teams
 
+![ERD](visuals/ERD.png)
 ---
 
 ## 4. 📈 Interactive Dashboard (Power BI)
