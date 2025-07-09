@@ -100,9 +100,13 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 
 ### 💾 General
 
+* Basic KPI's:
+ ![ERD](screenshots/basic_kpi.png)
 * Revenue peaks in Nov/Dec ✔ weekday shopping trend (Wed & 9 AM–3 PM)
   ![ERD](screenshots/general-overview.png)
 * UK leads revenue; "Loyal Customers" segment orders most frequently
+  ![ERD](screenshots/rev_by_country.png)
+  ![ERD](screenshots/sales_by_segment.png)
 
 ### 👤 Customer & Product Details
 
@@ -110,29 +114,36 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 * Most joined in 2010; UK hosts most Champions
 * Best-selling product: *WHITE HANGING HEART T-LIGHT HOLDER*
 * Top revenue product: *REGENCY CAKESTAND 3 TIER*
+  ![ERD](screenshots/new_customers.png)
 
 ### 📈 Growth
 
 * May 2011 = best growth; Dec 2011 = sharp drop
 * Clear seasonal trends; narrative box summarizes changes
+  ![ERD](screenshots/growth.png)
 
 ### 🔮 Year-End Prediction
 
 * Peak in Dec 2012: 1,188 customers
 * Total (Jul–Dec 2012): 4,855
 * Seasonal trend well captured by SARIMA
+  ![ERD](screenshots/prediction.png)
 
 ### 🔄 Segment Transitions
 
 * Most common: Others → Loyal Customers
 * Backward transitions show churn risk
-* Bidirectional flows in Sankey (Big Spenders = fluid group)
+  ![ERD](screenshots/segment_tra_bar.png)
+  ![ERD](screenshots/segment_trans_sankey.png)
 
 ### 🔁 Purchase Stages
 
 * 75% repeat rate, but most stop at 2–3 purchases
 * Repeat share increased in 2010 & 2011
 * Funnel/gauge highlight loyalty funnel performance
+  ![ERD](screenshots/purchase_funnel.png)
+  ![ERD](screenshots/repeat_by_year.png)
+  ![ERD](screenshots/repeat_gauge.png)
 
 ---
 
