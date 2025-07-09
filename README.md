@@ -7,13 +7,14 @@
 
 ```
 online-retail-performance-analytics/
-├── data/              # Ham veri
-├── notebooks/         # Jupyter Notebook'lar
-├── sql/               # SQL scripti
-├── outputs/           # Temizlenmiş veri ve çıktı dosyaları
-├── dashboard/         # Power BI .pbix dosyası
-├── visuals/           # Dashboard görselleri veya PDF
-└── README.md          # Proje dokümantasyonu
+
+├── data/              # Raw data
+├── notebooks/         # Jupyter Notebooks
+├── sql/               # SQL script
+├── outputs/           # Cleaned data and outputs
+├── dashboard/         # Power BI .pbix file
+├── visuals/           # Dashboard visuals
+└── README.md          # Project documentation
 ```
 
 ---
