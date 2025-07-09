@@ -3,6 +3,20 @@
 
 ---
 
+## 📌 Table of Contents
+
+1. [📁 Folder Structure](#1-folder-structure)  
+2. [🧠 Project Overview](#2-project-overview)  
+3. [📊 Dataset and Objectives](#3-dataset-and-objectives)  
+4. [📈 Interactive Dashboard (Power BI)](#4-interactive-dashboard-power-bi)  
+5. [🌟 Business Questions Answered](#business-questions-answered)  
+6. [🔍 Key Insights](#5-key-insights)  
+7. [🔍 Insights Deep-Dive](#6-insights-deep-dive)  
+8. [✅ Recommendations](#7-recommendations)  
+9. [⚠️ Limitations & Assumptions](#8-limitations--assumptions)
+
+---
+
 ## 1. 📁 Folder Structure
 
 ```
