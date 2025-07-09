@@ -215,5 +215,11 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 
 * Inconsistent product names; no standardized categories or brands
 * Restricts brand-level insights and clustering
-
+  
 ---
+## 📫 Contact
+
+If you found this project useful or have any questions, feel free to reach out:  
+📧 meydanasl@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/asli-meydan)
+
