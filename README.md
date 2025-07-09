@@ -9,11 +9,11 @@
 - [🧠 Project Overview](#2--project-overview)
 - [📊 Dataset and Objectives](#3--dataset-and-objectives)
 - [📈 Interactive Dashboard (Power BI)](#4--interactive-dashboard-power-bi)
-- [🌟 Business Questions Answered](#business-questions-answered)
-- [🔍 Key Insights](#5--key-insights)
-- [🔍 Insights Deep-Dive](#6--insights-deep-dive)
-- [✅ Recommendations](#7--recommendations)
-- [⚠️ Limitations & Assumptions](#8--limitations--assumptions)
+- [🌟 Business Questions Answered](#5--business-questions-answered)
+- [🔍 Key Insights](#6--key-insights)
+- [🔍 Insights Deep-Dive](#7--insights-deep-dive)
+- [✅ Recommendations](#8--recommendations)
+- [⚠️ Limitations & Assumptions](#9--limitations--assumptions)
 
 ---
 
@@ -85,7 +85,7 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 
 ---
 
-## 🌟 Business Questions Answered
+## 5. 🌟 Business Questions Answered
 
 * Who are our most valuable customers, and how can we retain them?
 * What are the key patterns in customer purchasing behavior?
@@ -97,7 +97,7 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 
 ---
 
-## 5. 🔍 Key Insights
+## 6. 🔍 Key Insights
 
 * 💎 Champions contribute the highest revenue with strong loyalty and high AOV.
 * ♻️ 75% repeat rate — strong retention but some customers only purchase once.
@@ -110,7 +110,7 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 
 ---
 
-## 6. 🔍 Insights Deep-Dive
+## 7. 🔍 Insights Deep-Dive
 
 ### 💾 General
 
@@ -161,7 +161,7 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 
 ---
 
-## 7. ✅ Recommendations
+## 8. ✅ Recommendations
 
 1. **Strengthen Loyalty Campaigns for “Others” Segment**
    ➤ Launch reactivation flows to convert one-timers
@@ -189,7 +189,7 @@ Funnel + repeat rate breakdown (1st to 5+ purchases), gauge & donut charts, annu
 
 ---
 
-## 8. ⚠️ Limitations & Assumptions
+## 9. ⚠️ Limitations & Assumptions
 
 ### 📆 Data Scope and Timeframe
 
