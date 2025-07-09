@@ -1,0 +1,8 @@
+Segment,Description
+Champions,"Recent, frequent, and high-spending customers"
+Loyal Customers,Regular customers who buy often
+Frequent Buyers,Visit frequently but spend moderately
+Big Spenders,Spend a lot but come less often
+At Risk,Previously active but now silent
+Hibernating,Haven’t purchased in a long time
+Others,"Unremarkable — not recent, frequent, or big spenders"
